@@ -1,0 +1,6 @@
+D:\code\DotNET-Homework\Homework1\Homework1\Cal_Console\obj\Debug\Cal_Console.csprojAssemblyReference.cache
+D:\code\DotNET-Homework\Homework1\Homework1\Cal_Console\obj\Debug\Cal_Console.csproj.CoreCompileInputs.cache
+D:\code\DotNET-Homework\Homework1\Homework1\Cal_Console\bin\Debug\Cal_Console.exe
+D:\code\DotNET-Homework\Homework1\Homework1\Cal_Console\bin\Debug\Cal_Console.pdb
+D:\code\DotNET-Homework\Homework1\Homework1\Cal_Console\obj\Debug\Cal_Console.exe
+D:\code\DotNET-Homework\Homework1\Homework1\Cal_Console\obj\Debug\Cal_Console.pdb
