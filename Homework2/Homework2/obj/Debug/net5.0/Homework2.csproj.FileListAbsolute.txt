@@ -1,0 +1,16 @@
+D:\code\DotNET-Homework\Homework2\Homework2\bin\Debug\net5.0\Homework2.exe
+D:\code\DotNET-Homework\Homework2\Homework2\bin\Debug\net5.0\Homework2.deps.json
+D:\code\DotNET-Homework\Homework2\Homework2\bin\Debug\net5.0\Homework2.runtimeconfig.json
+D:\code\DotNET-Homework\Homework2\Homework2\bin\Debug\net5.0\Homework2.runtimeconfig.dev.json
+D:\code\DotNET-Homework\Homework2\Homework2\bin\Debug\net5.0\Homework2.dll
+D:\code\DotNET-Homework\Homework2\Homework2\bin\Debug\net5.0\ref\Homework2.dll
+D:\code\DotNET-Homework\Homework2\Homework2\bin\Debug\net5.0\Homework2.pdb
+D:\code\DotNET-Homework\Homework2\Homework2\obj\Debug\net5.0\Homework2.csprojAssemblyReference.cache
+D:\code\DotNET-Homework\Homework2\Homework2\obj\Debug\net5.0\Homework2.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\DotNET-Homework\Homework2\Homework2\obj\Debug\net5.0\Homework2.AssemblyInfoInputs.cache
+D:\code\DotNET-Homework\Homework2\Homework2\obj\Debug\net5.0\Homework2.AssemblyInfo.cs
+D:\code\DotNET-Homework\Homework2\Homework2\obj\Debug\net5.0\Homework2.csproj.CoreCompileInputs.cache
+D:\code\DotNET-Homework\Homework2\Homework2\obj\Debug\net5.0\Homework2.dll
+D:\code\DotNET-Homework\Homework2\Homework2\obj\Debug\net5.0\ref\Homework2.dll
+D:\code\DotNET-Homework\Homework2\Homework2\obj\Debug\net5.0\Homework2.pdb
+D:\code\DotNET-Homework\Homework2\Homework2\obj\Debug\net5.0\Homework2.genruntimeconfig.cache
