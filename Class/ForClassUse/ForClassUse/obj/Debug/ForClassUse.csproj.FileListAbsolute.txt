@@ -1,0 +1,6 @@
+D:\code\DotNET-Homework\Class\ForClassUse\ForClassUse\bin\Debug\ForClassUse.exe
+D:\code\DotNET-Homework\Class\ForClassUse\ForClassUse\bin\Debug\ForClassUse.pdb
+D:\code\DotNET-Homework\Class\ForClassUse\ForClassUse\obj\Debug\ForClassUse.csprojAssemblyReference.cache
+D:\code\DotNET-Homework\Class\ForClassUse\ForClassUse\obj\Debug\ForClassUse.csproj.CoreCompileInputs.cache
+D:\code\DotNET-Homework\Class\ForClassUse\ForClassUse\obj\Debug\ForClassUse.exe
+D:\code\DotNET-Homework\Class\ForClassUse\ForClassUse\obj\Debug\ForClassUse.pdb
