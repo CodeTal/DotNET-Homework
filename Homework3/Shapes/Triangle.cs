@@ -15,7 +15,7 @@ namespace Shapes
         {
             get
             {
-                if (this.ifLegal())
+                if (this.isLegal())
                 {
                     int p = (side_1 + side_2 + side_3) / 2;
                     return (int) Math.Sqrt(p * (p - side_1) * (p - side_2) * (p - side_3));
@@ -27,7 +27,7 @@ namespace Shapes
             }
         }
 
-        public override bool ifLegal()
+        public override bool isLegal()
         {
             if ((side_1 + side_2 > side_3) && (side_2 + side_3 > side_1) && (side_3 + side_1 > side_2)) return true;
             else return false;

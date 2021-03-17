@@ -25,7 +25,7 @@ namespace Homework3
             int areaSum = 0;
             foreach (var shape in shapes)
             {
-                areaSum += shape.area;
+                if (shape.isLegal()) areaSum += shape.area;
             }
 
             Console.WriteLine("总面积：{0}", areaSum);

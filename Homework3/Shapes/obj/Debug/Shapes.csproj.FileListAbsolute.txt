@@ -1,0 +1,6 @@
+D:\code\DotNET-Homework\Homework3\Shapes\bin\Debug\Shapes.dll
+D:\code\DotNET-Homework\Homework3\Shapes\bin\Debug\Shapes.pdb
+D:\code\DotNET-Homework\Homework3\Shapes\obj\Debug\Shapes.csprojAssemblyReference.cache
+D:\code\DotNET-Homework\Homework3\Shapes\obj\Debug\Shapes.csproj.CoreCompileInputs.cache
+D:\code\DotNET-Homework\Homework3\Shapes\obj\Debug\Shapes.dll
+D:\code\DotNET-Homework\Homework3\Shapes\obj\Debug\Shapes.pdb

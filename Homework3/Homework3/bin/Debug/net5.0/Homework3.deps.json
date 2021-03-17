@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Homework3/1.0.0": {
+        "dependencies": {
+          "Factory": "1.0.0",
+          "Shapes": "1.0.0"
+        },
+        "runtime": {
+          "Homework3.dll": {}
+        }
+      },
+      "Factory/1.0.0": {
+        "runtime": {
+          "Factory.dll": {}
+        }
+      },
+      "Shapes/1.0.0": {
+        "runtime": {
+          "Shapes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Homework3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Factory/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Shapes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

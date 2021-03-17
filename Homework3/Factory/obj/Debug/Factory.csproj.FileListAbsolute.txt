@@ -1,0 +1,9 @@
+D:\code\DotNET-Homework\Homework3\Factory\bin\Debug\Factory.dll
+D:\code\DotNET-Homework\Homework3\Factory\bin\Debug\Factory.pdb
+D:\code\DotNET-Homework\Homework3\Factory\bin\Debug\Shapes.dll
+D:\code\DotNET-Homework\Homework3\Factory\bin\Debug\Shapes.pdb
+D:\code\DotNET-Homework\Homework3\Factory\obj\Debug\Factory.csprojAssemblyReference.cache
+D:\code\DotNET-Homework\Homework3\Factory\obj\Debug\Factory.csproj.CoreCompileInputs.cache
+D:\code\DotNET-Homework\Homework3\Factory\obj\Debug\Factory.csproj.CopyComplete
+D:\code\DotNET-Homework\Homework3\Factory\obj\Debug\Factory.dll
+D:\code\DotNET-Homework\Homework3\Factory\obj\Debug\Factory.pdb

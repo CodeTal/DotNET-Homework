@@ -6,7 +6,7 @@
         {
         }
 
-        public override bool ifLegal()
+        public override bool isLegal()
         {
             if (this.width == this.height) return true;
             else return false;

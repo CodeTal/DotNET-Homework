@@ -12,7 +12,7 @@
         {
             get
             {
-                if (this.ifLegal())
+                if (this.isLegal())
                 {
                     return width * height;
                 }
@@ -23,7 +23,7 @@
             }
         }
 
-        public override bool ifLegal()
+        public override bool isLegal()
         {
             return true;
         }

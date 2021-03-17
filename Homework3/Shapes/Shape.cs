@@ -6,6 +6,6 @@ namespace Shapes
     {
         public abstract int area { get; } //若形状不合法，则返回-1
 
-        public abstract bool ifLegal();
+        public abstract bool isLegal();
     }
 }

@@ -13,7 +13,7 @@ namespace Shapes
         {
             get
             {
-                if (this.ifLegal())
+                if (this.isLegal())
                 {
                     return (int) (Math.PI * (double) radius * (double) radius);
                 }
@@ -24,7 +24,7 @@ namespace Shapes
             }
         }
 
-        public override bool ifLegal()
+        public override bool isLegal()
         {
             return true;
         }
