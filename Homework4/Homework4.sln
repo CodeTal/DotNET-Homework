@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdvancedList", "AdvancedList\AdvancedList.csproj", "{B756DF54-E38A-4B27-B2B2-E22F8B0CDDC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tiktok", "Tiktok\Tiktok.csproj", "{C6865DAF-EF61-4C9D-AC9F-3004A1D6C508}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD656CFD-78CC-44D9-A002-F836656760C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD656CFD-78CC-44D9-A002-F836656760C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B756DF54-E38A-4B27-B2B2-E22F8B0CDDC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B756DF54-E38A-4B27-B2B2-E22F8B0CDDC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B756DF54-E38A-4B27-B2B2-E22F8B0CDDC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B756DF54-E38A-4B27-B2B2-E22F8B0CDDC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6865DAF-EF61-4C9D-AC9F-3004A1D6C508}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6865DAF-EF61-4C9D-AC9F-3004A1D6C508}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6865DAF-EF61-4C9D-AC9F-3004A1D6C508}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6865DAF-EF61-4C9D-AC9F-3004A1D6C508}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
