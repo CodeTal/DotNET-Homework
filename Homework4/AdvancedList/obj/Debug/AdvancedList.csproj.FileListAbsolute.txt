@@ -1,0 +1,6 @@
+D:\code\DotNET-Homework\Homework4\AdvancedList\bin\Debug\AdvancedList.exe
+D:\code\DotNET-Homework\Homework4\AdvancedList\bin\Debug\AdvancedList.pdb
+D:\code\DotNET-Homework\Homework4\AdvancedList\obj\Debug\AdvancedList.csprojAssemblyReference.cache
+D:\code\DotNET-Homework\Homework4\AdvancedList\obj\Debug\AdvancedList.csproj.CoreCompileInputs.cache
+D:\code\DotNET-Homework\Homework4\AdvancedList\obj\Debug\AdvancedList.exe
+D:\code\DotNET-Homework\Homework4\AdvancedList\obj\Debug\AdvancedList.pdb

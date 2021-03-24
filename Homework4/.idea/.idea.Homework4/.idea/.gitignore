@@ -1,0 +1,13 @@
+﻿# 默认忽略的文件
+/shelf/
+/workspace.xml
+# Rider ignored files
+/.idea.Homework4.iml
+/modules.xml
+/projectSettingsUpdater.xml
+/contentModel.xml
+# 数据源本地存储已忽略文件
+/../../../../../../../:\code\DotNET-Homework\Homework4\.idea\.idea.Homework4\.idea/dataSources/
+/dataSources.local.xml
+# 基于编辑器的 HTTP 客户端请求
+/httpRequests/

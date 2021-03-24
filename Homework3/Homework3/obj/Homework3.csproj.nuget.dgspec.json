@@ -8,7 +8,16 @@
       "restore": {
         "projectUniqueName": "D:\\code\\DotNET-Homework\\Homework3\\Factory\\Factory.csproj",
         "projectName": "Factory",
-        "projectPath": "D:\\code\\DotNET-Homework\\Homework3\\Factory\\Factory.csproj"
+        "projectPath": "D:\\code\\DotNET-Homework\\Homework3\\Factory\\Factory.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {
+              "D:\\code\\DotNET-Homework\\Homework3\\Shapes\\Shapes.csproj": {
+                "projectPath": "D:\\code\\DotNET-Homework\\Homework3\\Shapes\\Shapes.csproj"
+              }
+            }
+          }
+        }
       },
       "frameworks": {
         "net48": {}

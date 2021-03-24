@@ -4,6 +4,9 @@
     "net5.0": {
       "Factory/1.0.0": {
         "type": "project",
+        "dependencies": {
+          "Shapes": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/Factory.dll": {}
         },

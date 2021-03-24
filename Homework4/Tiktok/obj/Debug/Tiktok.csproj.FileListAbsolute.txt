@@ -1,0 +1,6 @@
+D:\code\DotNET-Homework\Homework4\Tiktok\bin\Debug\Tiktok.exe
+D:\code\DotNET-Homework\Homework4\Tiktok\bin\Debug\Tiktok.pdb
+D:\code\DotNET-Homework\Homework4\Tiktok\obj\Debug\Tiktok.csprojAssemblyReference.cache
+D:\code\DotNET-Homework\Homework4\Tiktok\obj\Debug\Tiktok.csproj.CoreCompileInputs.cache
+D:\code\DotNET-Homework\Homework4\Tiktok\obj\Debug\Tiktok.exe
+D:\code\DotNET-Homework\Homework4\Tiktok\obj\Debug\Tiktok.pdb
