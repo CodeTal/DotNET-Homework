@@ -230,6 +230,11 @@ namespace OrderUtils
             orders.Sort((p1,p2) => p1.ID - p2.ID);
         }
 
+        public void sort(Func<Order,Order,int> lambda)
+        {
+            orders.Sort((order1, order2) => lambda(order1, order2));
+        }
+
         private List<Order> orders;
     }
 }
