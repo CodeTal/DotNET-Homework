@@ -1,0 +1,9 @@
+D:\code\DotNET-Homework\Homework5\Homework5\bin\Debug\Homework5.exe
+D:\code\DotNET-Homework\Homework5\Homework5\bin\Debug\Homework5.pdb
+D:\code\DotNET-Homework\Homework5\Homework5\bin\Debug\OrderUtils.dll
+D:\code\DotNET-Homework\Homework5\Homework5\bin\Debug\OrderUtils.pdb
+D:\code\DotNET-Homework\Homework5\Homework5\obj\Debug\Homework5.csprojAssemblyReference.cache
+D:\code\DotNET-Homework\Homework5\Homework5\obj\Debug\Homework5.csproj.CoreCompileInputs.cache
+D:\code\DotNET-Homework\Homework5\Homework5\obj\Debug\Homework5.csproj.CopyComplete
+D:\code\DotNET-Homework\Homework5\Homework5\obj\Debug\Homework5.exe
+D:\code\DotNET-Homework\Homework5\Homework5\obj\Debug\Homework5.pdb
