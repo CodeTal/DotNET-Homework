@@ -1,0 +1,11 @@
+D:\code\DotNET-Homework\Homework6\Homework6Test\bin\Debug\Homework6Test.dll
+D:\code\DotNET-Homework\Homework6\Homework6Test\bin\Debug\Homework6Test.pdb
+D:\code\DotNET-Homework\Homework6\Homework6Test\bin\Debug\nunit.framework.dll
+D:\code\DotNET-Homework\Homework6\Homework6Test\bin\Debug\nunit.framework.xml
+D:\code\DotNET-Homework\Homework6\Homework6Test\obj\Debug\Homework6Test.csprojAssemblyReference.cache
+D:\code\DotNET-Homework\Homework6\Homework6Test\obj\Debug\Homework6Test.csproj.CoreCompileInputs.cache
+D:\code\DotNET-Homework\Homework6\Homework6Test\obj\Debug\Homework6Test.csproj.CopyComplete
+D:\code\DotNET-Homework\Homework6\Homework6Test\obj\Debug\Homework6Test.dll
+D:\code\DotNET-Homework\Homework6\Homework6Test\obj\Debug\Homework6Test.pdb
+D:\code\DotNET-Homework\Homework6\Homework6Test\bin\Debug\OrderUtils.dll
+D:\code\DotNET-Homework\Homework6\Homework6Test\bin\Debug\OrderUtils.pdb
