@@ -1,0 +1,6 @@
+D:\code\DotNET-Homework\Homework6\OrderUtils\bin\Debug\OrderUtils.dll
+D:\code\DotNET-Homework\Homework6\OrderUtils\bin\Debug\OrderUtils.pdb
+D:\code\DotNET-Homework\Homework6\OrderUtils\obj\Debug\OrderUtils.csprojAssemblyReference.cache
+D:\code\DotNET-Homework\Homework6\OrderUtils\obj\Debug\OrderUtils.csproj.CoreCompileInputs.cache
+D:\code\DotNET-Homework\Homework6\OrderUtils\obj\Debug\OrderUtils.dll
+D:\code\DotNET-Homework\Homework6\OrderUtils\obj\Debug\OrderUtils.pdb

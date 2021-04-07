@@ -16,7 +16,7 @@ namespace OrderUtils
         public override bool Equals(object obj)
         {
             Order comparedOrder = obj as Order;
-            return comparedOrder == null || comparedOrder.ID == id;
+            return comparedOrder != null && comparedOrder.ID != id;
         }
 
         public override string ToString()
