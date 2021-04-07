@@ -1,20 +1,37 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-namespace OrderUtils
-{
-    public class Customer
-    {
-        public Customer(String name, int id)
-        {
-            this.name = name;
-            this.id = id;
+namespace ordertest {
+
+    [Serializable]
+    public class Customer {
+
+        public uint Id { get; set; }
+
+        public string Name { get; set; }
+
+        public Customer(uint id, string name) {
+            this.Id = id;
+            this.Name = name;
+        }
+        
+        public Customer(){}
+    
+        public override string ToString() {
+            return $"customerId:{Id}, CustomerName:{Name}";
         }
 
-        public string Name => name;
+        public override bool Equals(object obj) {
+            var customer = obj as Customer;
+            return customer != null &&
+                   Id == customer.Id;
+        }
 
-        public int Id => id;
-
-        private String name;
-        private int id;
+        public override int GetHashCode() {
+            return 2108858624 + Id.GetHashCode();
+        }
     }
 }
