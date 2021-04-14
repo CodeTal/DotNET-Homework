@@ -4,6 +4,7 @@ using System.ComponentModel;
 using System.Data;
 using System.Drawing;
 using System.Linq;
+using System.Runtime.CompilerServices;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
@@ -15,6 +16,7 @@ namespace Homework7
         public Form1()
         {
             InitializeComponent();
+            this.comboBox_color.SelectedIndex = 1;
         }
 
         private void drawBtn_Click(object sender, EventArgs e)
@@ -42,7 +44,14 @@ namespace Homework7
                 return;
             }
 
-            drawCayleyTree(n, 200, 300, leng, -Math.PI / 2);
+            try
+            {
+                drawCayleyTree(n, 200, 300, leng, -Math.PI / 2);
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.ToString());
+            }
         }
 
         private Graphics graphics;
