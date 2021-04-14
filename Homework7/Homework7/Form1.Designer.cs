@@ -51,9 +51,9 @@
             // drawBtn
             // 
             this.drawBtn.Dock = System.Windows.Forms.DockStyle.Right;
-            this.drawBtn.Location = new System.Drawing.Point(800, 0);
+            this.drawBtn.Location = new System.Drawing.Point(796, 0);
             this.drawBtn.Name = "drawBtn";
-            this.drawBtn.Size = new System.Drawing.Size(94, 247);
+            this.drawBtn.Size = new System.Drawing.Size(94, 243);
             this.drawBtn.TabIndex = 0;
             this.drawBtn.Text = "Draw";
             this.drawBtn.UseVisualStyleBackColor = true;
@@ -175,6 +175,7 @@
             // 
             // panel1
             // 
+            this.panel1.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
             this.panel1.Controls.Add(this.comboBox_color);
             this.panel1.Controls.Add(this.drawBtn);
             this.panel1.Controls.Add(this.label7);

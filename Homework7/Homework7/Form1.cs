@@ -26,6 +26,7 @@ namespace Homework7
             {
                 graphics.Clear(this.BackColor);
             }
+
             int n = 10;
             double leng = 100;
 
@@ -44,14 +45,7 @@ namespace Homework7
                 return;
             }
 
-            try
-            {
-                drawCayleyTree(n, 200, 300, leng, -Math.PI / 2);
-            }
-            catch (Exception ex)
-            {
-                MessageBox.Show(ex.ToString());
-            }
+            drawCayleyTree(n, this.Size.Width / 2, (this.Size.Height - panel1.Size.Height) / 1.5, leng, -Math.PI / 2);
         }
 
         private Graphics graphics;
@@ -92,7 +86,7 @@ namespace Homework7
                     case "Black":
                         graphics.DrawLine(Pens.Black, (int) x0, (int) y0, (int) x1, (int) y1);
                         break;
-                    
+
                     default:
                         graphics.DrawLine(Pens.Blue, (int) x0, (int) y0, (int) x1, (int) y1);
                         break;
