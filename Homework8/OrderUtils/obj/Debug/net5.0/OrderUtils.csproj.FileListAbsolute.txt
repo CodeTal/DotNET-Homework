@@ -1,0 +1,12 @@
+D:\code\DotNET-Homework\Homework8\OrderUtils\bin\Debug\net5.0\OrderUtils.deps.json
+D:\code\DotNET-Homework\Homework8\OrderUtils\bin\Debug\net5.0\OrderUtils.dll
+D:\code\DotNET-Homework\Homework8\OrderUtils\bin\Debug\net5.0\ref\OrderUtils.dll
+D:\code\DotNET-Homework\Homework8\OrderUtils\bin\Debug\net5.0\OrderUtils.pdb
+D:\code\DotNET-Homework\Homework8\OrderUtils\obj\Debug\net5.0\OrderUtils.csprojAssemblyReference.cache
+D:\code\DotNET-Homework\Homework8\OrderUtils\obj\Debug\net5.0\OrderUtils.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\DotNET-Homework\Homework8\OrderUtils\obj\Debug\net5.0\OrderUtils.AssemblyInfoInputs.cache
+D:\code\DotNET-Homework\Homework8\OrderUtils\obj\Debug\net5.0\OrderUtils.AssemblyInfo.cs
+D:\code\DotNET-Homework\Homework8\OrderUtils\obj\Debug\net5.0\OrderUtils.csproj.CoreCompileInputs.cache
+D:\code\DotNET-Homework\Homework8\OrderUtils\obj\Debug\net5.0\OrderUtils.dll
+D:\code\DotNET-Homework\Homework8\OrderUtils\obj\Debug\net5.0\ref\OrderUtils.dll
+D:\code\DotNET-Homework\Homework8\OrderUtils\obj\Debug\net5.0\OrderUtils.pdb

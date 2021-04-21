@@ -42,9 +42,10 @@
             this.label5 = new System.Windows.Forms.Label();
             this.textBox_th2 = new System.Windows.Forms.TextBox();
             this.label6 = new System.Windows.Forms.Label();
+            this.panel1 = new System.Windows.Forms.Panel();
             this.comboBox_color = new System.Windows.Forms.ComboBox();
             this.label7 = new System.Windows.Forms.Label();
-            this.panel1 = new System.Windows.Forms.Panel();
+            this.button1 = new System.Windows.Forms.Button();
             this.panel1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -155,30 +156,12 @@
             this.label6.Text = "th2";
             this.label6.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             // 
-            // comboBox_color
-            // 
-            this.comboBox_color.FormattingEnabled = true;
-            this.comboBox_color.Items.AddRange(new object[] {"Red", "Blue", "Yellow", "Black"});
-            this.comboBox_color.Location = new System.Drawing.Point(639, 112);
-            this.comboBox_color.Name = "comboBox_color";
-            this.comboBox_color.Size = new System.Drawing.Size(70, 23);
-            this.comboBox_color.TabIndex = 13;
-            // 
-            // label7
-            // 
-            this.label7.Location = new System.Drawing.Point(532, 112);
-            this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(101, 23);
-            this.label7.TabIndex = 14;
-            this.label7.Text = "penColor";
-            this.label7.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
-            // 
             // panel1
             // 
             this.panel1.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
             this.panel1.Controls.Add(this.comboBox_color);
-            this.panel1.Controls.Add(this.drawBtn);
             this.panel1.Controls.Add(this.label7);
+            this.panel1.Controls.Add(this.drawBtn);
             this.panel1.Controls.Add(this.label1);
             this.panel1.Controls.Add(this.textBox_n);
             this.panel1.Controls.Add(this.textBox_th2);
@@ -197,6 +180,33 @@
             this.panel1.Size = new System.Drawing.Size(894, 247);
             this.panel1.TabIndex = 15;
             // 
+            // comboBox_color
+            // 
+            this.comboBox_color.FormattingEnabled = true;
+            this.comboBox_color.Items.AddRange(new object[] {"Blue", "Red", "Yellow", "Black"});
+            this.comboBox_color.Location = new System.Drawing.Point(609, 114);
+            this.comboBox_color.Name = "comboBox_color";
+            this.comboBox_color.Size = new System.Drawing.Size(81, 23);
+            this.comboBox_color.TabIndex = 14;
+            // 
+            // label7
+            // 
+            this.label7.Location = new System.Drawing.Point(523, 112);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(80, 25);
+            this.label7.TabIndex = 13;
+            this.label7.Text = "color";
+            this.label7.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            // 
+            // button1
+            // 
+            this.button1.Location = new System.Drawing.Point(0, 0);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(75, 23);
+            this.button1.TabIndex = 0;
+            this.button1.Text = "button1";
+            this.button1.UseVisualStyleBackColor = true;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 15F);
@@ -210,10 +220,14 @@
             this.ResumeLayout(false);
         }
 
-        private System.Windows.Forms.Panel panel1;
-
         private System.Windows.Forms.ComboBox comboBox_color;
+
         private System.Windows.Forms.Label label7;
+        private System.Windows.Forms.ComboBox comboBox1;
+
+        private System.Windows.Forms.Button button1;
+
+        private System.Windows.Forms.Panel panel1;
 
         private System.Windows.Forms.TextBox textBox_th2;
         private System.Windows.Forms.Label label5;

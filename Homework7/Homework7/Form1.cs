@@ -16,7 +16,7 @@ namespace Homework7
         public Form1()
         {
             InitializeComponent();
-            this.comboBox_color.SelectedIndex = 1;
+            this.comboBox_color.SelectedIndex = 0;
         }
 
         private void drawBtn_Click(object sender, EventArgs e)
@@ -92,6 +92,11 @@ namespace Homework7
                         break;
                 }
             }
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            throw new System.NotImplementedException();
         }
     }
 }

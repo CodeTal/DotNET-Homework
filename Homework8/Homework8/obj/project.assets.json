@@ -1,0 +1,93 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0-windows7.0": {
+      "OrderUtils/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/OrderUtils.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/OrderUtils.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OrderUtils/1.0.0": {
+      "type": "project",
+      "path": "../OrderUtils/OrderUtils.csproj",
+      "msbuildProject": "../OrderUtils/OrderUtils.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0-windows7.0": [
+      "OrderUtils >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\74323\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\code\\DotNET-Homework\\Homework8\\Homework8\\Homework8.csproj",
+      "projectName": "Homework8",
+      "projectPath": "D:\\code\\DotNET-Homework\\Homework8\\Homework8\\Homework8.csproj",
+      "packagesPath": "C:\\Users\\74323\\.nuget\\packages\\",
+      "outputPath": "D:\\code\\DotNET-Homework\\Homework8\\Homework8\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\74323\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "projectReferences": {
+            "D:\\code\\DotNET-Homework\\Homework8\\OrderUtils\\OrderUtils.csproj": {
+              "projectPath": "D:\\code\\DotNET-Homework\\Homework8\\OrderUtils\\OrderUtils.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0-windows7.0": {
+        "targetAlias": "net5.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
