@@ -92,13 +92,20 @@ namespace Homework8
             if (result == DialogResult.OK)
             {
                 int modifyID = form.modifyID;
+                bool flag = false;
                 foreach (Order order in orderBindingSource)
                 {
                     if (order.Id == form.modifyID)
                     {
                         orderBindingSource.Remove(order);
+                        flag = true;
                         break;
                     }
+                }
+
+                if (flag == false) {
+                    MessageBox.Show("不存在该项");
+                    return;
                 }
 
                 orderBindingSource.Add(form.order_to_be_added);
