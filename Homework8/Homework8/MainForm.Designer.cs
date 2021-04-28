@@ -62,6 +62,7 @@ namespace Homework8
             this.addMenuItem.Name = "addMenuItem";
             this.addMenuItem.Size = new System.Drawing.Size(52, 24);
             this.addMenuItem.Text = "Add";
+            this.addMenuItem.Click += new System.EventHandler(this.addMenuItem_Click);
             // 
             // deleteMenuItem
             // 
