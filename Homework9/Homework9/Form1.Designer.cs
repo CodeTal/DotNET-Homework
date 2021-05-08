@@ -50,6 +50,8 @@
             this.crawledTextBox.Location = new System.Drawing.Point(21, 232);
             this.crawledTextBox.Multiline = true;
             this.crawledTextBox.Name = "crawledTextBox";
+            this.crawledTextBox.ReadOnly = true;
+            this.crawledTextBox.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
             this.crawledTextBox.Size = new System.Drawing.Size(372, 145);
             this.crawledTextBox.TabIndex = 1;
             // 
@@ -58,6 +60,8 @@
             this.failedTextBox.Location = new System.Drawing.Point(554, 232);
             this.failedTextBox.Multiline = true;
             this.failedTextBox.Name = "failedTextBox";
+            this.failedTextBox.ReadOnly = true;
+            this.failedTextBox.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
             this.failedTextBox.Size = new System.Drawing.Size(372, 145);
             this.failedTextBox.TabIndex = 2;
             // 

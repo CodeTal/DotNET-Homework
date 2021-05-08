@@ -5,6 +5,7 @@ using System.Text.RegularExpressions;
 using System.Net;
 using System.Collections;
 using System.IO;
+using System.Threading.Tasks;
 
 namespace Homework9
 {
@@ -13,6 +14,7 @@ namespace Homework9
         public Hashtable urls = new Hashtable();
         public int count = 0;
         public string postfix;
+        public string root_dom;
         
         public void Crawl() {
             while (true) {
@@ -58,6 +60,12 @@ namespace Homework9
                     failedTextBox.Text += strRef + "\n";
                     continue;
                 }
+                
+                if (!Regex.IsMatch(strRef, root_dom))
+                {
+                    failedTextBox.Text += strRef + "\n";
+                    continue;
+                }
 
                 if (!Regex.IsMatch(strRef, "^(https|http)"))
                 {
@@ -85,9 +93,11 @@ namespace Homework9
             count = 0;
             string url = urlTextBox.Text;
             postfix = url;
+            string[] doms = url.Split('.');
+            root_dom = doms[doms.Length - 2];
             urlTextBox.Text = "";
-            urls.Add(url,false);
-            Crawl();
+            urls.Add(url,false); 
+            Task.Run(Crawl);
         }
     }
 }
