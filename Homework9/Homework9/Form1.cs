@@ -5,6 +5,7 @@ using System.Text.RegularExpressions;
 using System.Net;
 using System.Collections;
 using System.IO;
+using System.Threading;
 using System.Threading.Tasks;
 
 namespace Homework9
@@ -25,12 +26,19 @@ namespace Homework9
                 }
 
                 if (current == null || count > 5) break;
-                string html = DownLoad(current); // 下载
-                urls[current] = true;
-                count++;
-                crawledTextBox.Text += current + "\n";
-                Parse(html);//解析,并加入新的链接
+                //process(current);
+                //new Task(() => process(current)).Start();
             }
+        }
+
+        public void process(string current)
+        {
+            string html = DownLoad(current); // 下载
+            //lock(this);
+            urls[current] = true;
+            count++;
+            crawledTextBox.Text += current + "\n";
+            Parse(html);//解析,并加入新的链接
         }
         
         public string DownLoad(string url) {

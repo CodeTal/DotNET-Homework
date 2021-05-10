@@ -1,0 +1,16 @@
+D:\code\DotNET-Homework\Homework10\Homework10\bin\Debug\net5.0-windows\Homework10.exe
+D:\code\DotNET-Homework\Homework10\Homework10\bin\Debug\net5.0-windows\Homework10.deps.json
+D:\code\DotNET-Homework\Homework10\Homework10\bin\Debug\net5.0-windows\Homework10.runtimeconfig.json
+D:\code\DotNET-Homework\Homework10\Homework10\bin\Debug\net5.0-windows\Homework10.runtimeconfig.dev.json
+D:\code\DotNET-Homework\Homework10\Homework10\bin\Debug\net5.0-windows\Homework10.dll
+D:\code\DotNET-Homework\Homework10\Homework10\bin\Debug\net5.0-windows\ref\Homework10.dll
+D:\code\DotNET-Homework\Homework10\Homework10\bin\Debug\net5.0-windows\Homework10.pdb
+D:\code\DotNET-Homework\Homework10\Homework10\obj\Debug\net5.0-windows\Homework10.csprojAssemblyReference.cache
+D:\code\DotNET-Homework\Homework10\Homework10\obj\Debug\net5.0-windows\Homework10.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\DotNET-Homework\Homework10\Homework10\obj\Debug\net5.0-windows\Homework10.AssemblyInfoInputs.cache
+D:\code\DotNET-Homework\Homework10\Homework10\obj\Debug\net5.0-windows\Homework10.AssemblyInfo.cs
+D:\code\DotNET-Homework\Homework10\Homework10\obj\Debug\net5.0-windows\Homework10.csproj.CoreCompileInputs.cache
+D:\code\DotNET-Homework\Homework10\Homework10\obj\Debug\net5.0-windows\Homework10.dll
+D:\code\DotNET-Homework\Homework10\Homework10\obj\Debug\net5.0-windows\ref\Homework10.dll
+D:\code\DotNET-Homework\Homework10\Homework10\obj\Debug\net5.0-windows\Homework10.pdb
+D:\code\DotNET-Homework\Homework10\Homework10\obj\Debug\net5.0-windows\Homework10.genruntimeconfig.cache
