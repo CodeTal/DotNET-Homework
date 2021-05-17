@@ -23,7 +23,7 @@ namespace OrderForm {
     public FormMain() {
       InitializeComponent();
       orderService = new OrderService();
-      var query = db.Orders.Include("Customer").Include("details");
+      var query = db.Orders.Include("Customer").Include(o=>o.details.Select(d=>d.GoodsItem));
       foreach (var order in query)
       {
         orderService.AddOrder(order);
