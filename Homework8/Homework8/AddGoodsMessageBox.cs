@@ -26,6 +26,7 @@ namespace Homework8
             int price = Convert.ToInt32(textBox3.Text);
             uint quantity = Convert.ToUInt32(textBox4.Text);
             detail = new OrderDetail(new Goods(id, name, price), quantity);
+            MessageBox.Show("添加成功");
             this.Close();
         }
     }

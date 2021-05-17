@@ -28,7 +28,6 @@ namespace Homework8
             form.ShowDialog();
             orderDetails.Add(form.detail);
             this.label5.Text = orderDetails.Count.ToString();
-            MessageBox.Show("添加成功");
         }
 
         private void confirmButton_Click(object sender, EventArgs e)
