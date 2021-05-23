@@ -7,13 +7,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c4f3c9a4-1c27-4baa-9aea-e93a726d5fac" name="默认变更列表" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Homework11/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Homework11/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OrderForm/FormEdit.cs" beforeDir="false" afterPath="$PROJECT_DIR$/OrderForm/FormEdit.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OrderForm/FormMain.cs" beforeDir="false" afterPath="$PROJECT_DIR$/OrderForm/FormMain.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OrderForm/bin/Debug/OrderForm.exe" beforeDir="false" afterPath="$PROJECT_DIR$/OrderForm/bin/Debug/OrderForm.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OrderForm/bin/Debug/OrderForm.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/OrderForm/bin/Debug/OrderForm.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OrderForm/obj/Debug/OrderForm.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OrderForm/obj/Debug/OrderForm.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OrderForm/obj/Debug/OrderForm.exe" beforeDir="false" afterPath="$PROJECT_DIR$/OrderForm/obj/Debug/OrderForm.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OrderForm/obj/Debug/OrderForm.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/OrderForm/obj/Debug/OrderForm.pdb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +25,7 @@
     </file-type-list>
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="mock://D:/code/DotNET-Homework/Homework11/OrderForm/FormEdit.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/13DBC815-33D8-4EDC-819A-C50A274C0735/43/57a2386c/BindingSource.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/OrderForm/FormEdit.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -122,7 +116,7 @@
       <workItem from="1621069551167" duration="601000" />
       <workItem from="1621133661081" duration="17229000" />
       <workItem from="1621217180859" duration="3870000" />
-      <workItem from="1621223910206" duration="1382000" />
+      <workItem from="1621223910206" duration="2306000" />
     </task>
     <task id="LOCAL-00001" summary="第十一次作业第一版，实现了增删查功能，改功能尚未实现，因为实在不清楚ef6如何实现简介查询">
       <created>1621220844154</created>
@@ -131,7 +125,14 @@
       <option name="project" value="LOCAL" />
       <updated>1621220844154</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="添加了一些功能">
+      <created>1621225327798</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1621225327798</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -155,7 +156,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="第十一次作业第一版，实现了增删查功能，改功能尚未实现，因为实在不清楚ef6如何实现简介查询" />
-    <option name="LAST_COMMIT_MESSAGE" value="第十一次作业第一版，实现了增删查功能，改功能尚未实现，因为实在不清楚ef6如何实现简介查询" />
+    <MESSAGE value="添加了一些功能" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加了一些功能" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

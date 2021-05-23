@@ -1,0 +1,12 @@
+D:\code\DotNET-Homework\Homework12\OrderService_Core\bin\Debug\net5.0\OrderService_Core.deps.json
+D:\code\DotNET-Homework\Homework12\OrderService_Core\bin\Debug\net5.0\OrderService_Core.dll
+D:\code\DotNET-Homework\Homework12\OrderService_Core\bin\Debug\net5.0\ref\OrderService_Core.dll
+D:\code\DotNET-Homework\Homework12\OrderService_Core\bin\Debug\net5.0\OrderService_Core.pdb
+D:\code\DotNET-Homework\Homework12\OrderService_Core\obj\Debug\net5.0\OrderService_Core.csprojAssemblyReference.cache
+D:\code\DotNET-Homework\Homework12\OrderService_Core\obj\Debug\net5.0\OrderService_Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\DotNET-Homework\Homework12\OrderService_Core\obj\Debug\net5.0\OrderService_Core.AssemblyInfoInputs.cache
+D:\code\DotNET-Homework\Homework12\OrderService_Core\obj\Debug\net5.0\OrderService_Core.AssemblyInfo.cs
+D:\code\DotNET-Homework\Homework12\OrderService_Core\obj\Debug\net5.0\OrderService_Core.csproj.CoreCompileInputs.cache
+D:\code\DotNET-Homework\Homework12\OrderService_Core\obj\Debug\net5.0\OrderService_Core.dll
+D:\code\DotNET-Homework\Homework12\OrderService_Core\obj\Debug\net5.0\ref\OrderService_Core.dll
+D:\code\DotNET-Homework\Homework12\OrderService_Core\obj\Debug\net5.0\OrderService_Core.pdb
